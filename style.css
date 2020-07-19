@@ -28,7 +28,7 @@
 }
 
 h1 {
-  padding: 40px;
+  padding: 20px 80px ;
   color: #DBE2E4;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
@@ -36,18 +36,21 @@ h1 {
 }
 
 p {
-  padding-left: 40px;
+  padding: 20px 80px;
   color: #DBE2E4;
   font-family: 'Raleway', sans-serif;
 }
 
 .button {
-  margin: 40px;
+  margin: 20px 80px;
   height: 40px;
-  width: 120px;
+  width: 160px;
+  border-radius: 20px;
   background-color: #DBE2E4;
   text-decoration: none;
   color: #0E090D;
   font-family: 'Raleway', sans-serif;
-    
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-transform: uppercase;    
 }
